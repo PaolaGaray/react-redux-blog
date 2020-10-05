@@ -1,4 +1,4 @@
-This is a `React` and `Redux` application that essentially renders a list of blog posts that are fetched from an external API. 
+This is a `react-redux` application that essentially renders a list of blog posts that are fetched from an external API. 
 
 ### App goals:   
 - Absolutely understand the purpose of reducers.
